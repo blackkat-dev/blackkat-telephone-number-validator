@@ -1,11 +1,11 @@
-# 📱 Vynxcode's Telephone Number Validator
+# 📱 Blackkat | Telephone Number Validator
 
 ## 📖 Overview
 Created as part of my FreeCodeCamp JavaScript Algorithms and Data Structures Certification, this project is a fully responsive telephone number validator built using HTML, CSS, and JavaScript.
 
 The objective was to build a fully responsive telepone validator with logic functionality using HTML, CSS, and JavaScript that validates phone numbers with or without area codes.
 
-Designed under my developer alias Vynxcode, the objective of this project was to validate U.S. phone numbers with or without area codes using JavaScript logic and regular expressions. The app features a visually unique, cell phone inspired interface that allows users to enter a number, validate it instantly, and receive clear feedback.
+Designed under my developer alias Blackkat, the objective of this project was to validate U.S. phone numbers with or without area codes using JavaScript logic and regular expressions. The app features a visually unique, cell phone inspired interface that allows users to enter a number, validate it instantly, and receive clear feedback.
 
 The project demonstrates structured validation logic, interactive user controls, and a responsive, accessible layout presented in a clean and polished design.
 
@@ -24,7 +24,7 @@ The project demonstrates structured validation logic, interactive user controls,
 - JavaScript – logic and interactivity
 
 ## 🚀 How to Use
-[`View Live Project`](https://vynxcode-ts.github.io/vynxcodes-telephone-number-validator/)
+[`View Live Project`](https://blackkat-dev.github.io/blackkat-telephone-number-validator/)
 
 1. Enter a U.S. phone number into the input field.
 2. Click Check to validate the number.
@@ -59,7 +59,7 @@ The project demonstrates structured validation logic, interactive user controls,
 - Accessibility conscious layout and readable feedback states
 
 ## 📂 Project Structure
-vynxcodes-telephone-number-validator/ | `root folder`
+blackkat-telephone-number-validator/ | `root folder`
 
 │── index.html | `main webpage`
 
@@ -90,13 +90,13 @@ This project fully meets all FreeCodeCamp JavaScript Algorithms and Data Structu
 Telephone Number Validator user stories and requirements.
 
 ## 📸 Preview
-![Vynxcode's Telephone Number Validator Screenshot](./img/website-preview.png)
+![Blackkat Telephone Number Validator Screenshot](./img/website-preview.png)
 
-[`View Live Project`](https://vynxcode-ts.github.io/vynxcodes-telephone-number-validator/)
+[`View Live Project`](https://blackkat-dev.github.io/blackkat-telephone-number-validator/)
 
 ## 📄 License 
 This project is provided for portfolio and educational review only. 
 Copying, redistribution, or commercial use is prohibited. 
 
-This project is licensed under a Vynxcode Proprietary License. 
-See the [LICENSE](https://github.com/vynxcode-ts/vynxcodes-telephone-number-validator/blob/main/LICENSE) file for full terms.
+This project is licensed under a Blackkat Proprietary License. 
+See the [LICENSE](https://github.com/blackkat-dev/blackkat-telephone-number-validator/blob/main/LICENSE) file for full terms.
